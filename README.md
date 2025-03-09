@@ -1,4 +1,5 @@
 # Minicurso: CRUD em Python: Conceitos e Implementação Prática  
+
 **Instrutores:** João Pedro e Lucas Arlego
 
 ## Descrição do Projeto  
