@@ -81,7 +81,7 @@ def atualizar_livro():
     elif dados_edit == "2":
         detalhes["genero"] = input("Digite o novo genero: ")
     elif dados_edit == "3":
-        detalhes["autot"] = input("Digite o novo autor: ")
+        detalhes["autor"] = input("Digite o novo autor: ")
     elif dados_edit == "4":
         detalhes["quantidade"] = input("Digite a nova quantidade: ")
     else:
